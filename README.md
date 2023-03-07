@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KalyanKanuri
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Web Development,Python
+- I'm Interested in Learning new technologies 
+- Smart warking Enthusiast looking for oppurtunties to start and achieve.
 <!---
 KalyanKanuri/KalyanKanuri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
