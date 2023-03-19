@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👨‍💻 All of my projects are available at [kalyankanuriportfolio.netlify.app](https://kalyankanuriportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [portfolio](https://kalyankanuriportfolio.netlify.app/)
 
 - 💬 Ask me about **HTML,CSS,JS,React,TCL**
 
