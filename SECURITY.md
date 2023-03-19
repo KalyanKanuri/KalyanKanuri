@@ -14,8 +14,6 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
+Please report if any copyright issues found in this to my gmail account provided in Readme file 
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+> To get latest updates after creating fork please constantly use git pull.
