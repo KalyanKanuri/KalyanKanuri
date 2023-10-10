@@ -34,11 +34,11 @@
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyankanuri&theme=blue-green" alt="kalyankanuri" />
-</p>
+</p></br>
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kalyankanuri&theme=blue-green"/>
-</p>
+</p></br>
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalyankanuri&theme=tokyonight" alt="kalyankanuri" />
