@@ -1,7 +1,11 @@
 <p align="center">
-  <figure><embed src="https://wakatime.com/share/@kalyan/a232daa4-0a32-45a1-904a-9aba02203f8f.svg"></embed></figure>
+  <a href="https://wakatime.com">
+    <img src="https://wakatime.com/share/@kalyan/b6039c07-ebd9-41a5-bb82-8dbeed8a0b4c.png" />
+  </a>
 
-  <figure><embed src="https://wakatime.com/share/@kalyan/e8f275d6-1ce8-4e73-b247-00dde5c6fc91.svg"></embed></figure>
+  <a href="https://wakatime.com">
+    <img src="https://wakatime.com/share/@kalyan/cb953ddf-0bec-413e-bdb7-b2be3b29c9f9.png" />
+  </a>
 </p>
 
 <p align="center">
