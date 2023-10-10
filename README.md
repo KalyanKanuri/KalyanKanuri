@@ -1,10 +1,10 @@
 <p align="center">
   <a href="https://wakatime.com">
-    <img src="https://wakatime.com/share/@kalyan/b6039c07-ebd9-41a5-bb82-8dbeed8a0b4c.png" />
+    <img align="center" width="400" height="300" src="https://wakatime.com/share/@kalyan/b6039c07-ebd9-41a5-bb82-8dbeed8a0b4c.png" />
   </a>
 
   <a href="https://wakatime.com">
-    <img src="https://wakatime.com/share/@kalyan/cb953ddf-0bec-413e-bdb7-b2be3b29c9f9.png" />
+    <img align="center" width="400" height="300" src="https://wakatime.com/share/@kalyan/cb953ddf-0bec-413e-bdb7-b2be3b29c9f9.png" />
   </a>
 </p>
 
