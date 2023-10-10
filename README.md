@@ -75,4 +75,4 @@
 ### 📫 How to reach me:
   - Gmail   : kalyankanuri497@gmail.com
   - Linkedin   : <https://www.linkedin.com/in/kalyan-kanuri-12224a220/>
-  - Portfolio   : <kalyankanuriportfolio.netlify.app>
+  - Portfolio   : <https://kalyankanuriportfolio.netlify.app/>
