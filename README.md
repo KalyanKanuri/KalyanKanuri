@@ -33,6 +33,7 @@
 ![PostegreSQl](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![IDE](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Cent OS](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
 
 
 ## Github Stats
@@ -52,4 +53,5 @@
 ## 📫 Reach me:
   - ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)   : kalyankanuri497@gmail.com
   - ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)   : <https://www.linkedin.com/in/kalyan-kanuri-12224a220>
-  - ![Portfolio ](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)  : <https://kalyankanuriportfolio.netlify.app>
+  - ![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)  : <https://kalyankanuriportfolio.netlify.app>
+  - ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) : <https://www.instagram.com/__kalyan.k>
