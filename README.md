@@ -15,7 +15,10 @@
   <img href="https://codetime.dev" alt="Custom badge" src="https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D21162%26project%3D%26in%3D0">
 </p>
 
+## Dev Profiles
+
 [![Hacker Rank Profile](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/kalyankanuri497)
+[![Leet Code Profile](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/KalyanKanuri/)
 
 
 ## Proficient Languages 
