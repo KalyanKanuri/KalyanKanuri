@@ -1,6 +1,7 @@
 # Readme profile
 
-## Stats
+## Coding Stats
+
 <p align="center">
   <a href="https://wakatime.com">
     <img align="center" width="400" height="300" src="https://wakatime.com/share/@kalyan/b6039c07-ebd9-41a5-bb82-8dbeed8a0b4c.png" />
@@ -34,6 +35,7 @@
 ![PowerShell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 
+## Github Stats
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyankanuri&theme=blue-green" alt="kalyankanuri" />
