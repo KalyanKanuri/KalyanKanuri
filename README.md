@@ -1,11 +1,4 @@
-
 # Hello there! 👋
-
-
-### Bio:
-
-a simple creative minded guy, currently working @Wipro
-            
 
 ### Streetcred:
 
