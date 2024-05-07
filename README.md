@@ -1,24 +1,19 @@
-# Hello there! 👋
-
-## Streetcred:
-
-<a href="https://www.tublian.com/profile/KalyanKanuri?ss=true"><img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/KalyanKanuri?type=with_score"></a>
-
-## My Stack:
-
- <img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/Data%20Science"/> <img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/Data%20Engineering"/> <img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/Python"/>
-
- <img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/MLOps"/> <img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/Frontend"/> <img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/Backend"/>
-
-
-
+<h1 align="center">Hello there! 👋 I'm Kalyan Kanuri</h1>
 
 <p align="center">
-  <a href="https://www.tublian.com/"><img src="https://tublian-newsletter-assets.s3.amazonaws.com/just-logo.png" width="25" style="vertical-align: middle"/>
+  <img src ="./profile.png" height="200" width="200"/>
 </p>
 
+## 👨🏻‍💻About Me
 
-## Coding Stats
+* 🙋‍♂️All about me is in [My Website](https://kalyankanuriportfolio.netlify.app)
+* 🔭 I’m currently working on some projects in [TechHubHQ](https://github.com/TechHubHQ/).
+* 🌱 I’m currently learning JAVA with SpringBoot.
+* 🤔 I’m looking for help in System Architecture and AWS EC2 Deployment.
+* 👯 I’m looking to collaborate for Dev Projects
+* 🕵 Checkout my works [here](https://github.com/orgs/TechHubHQ/repositories) 
+
+## 📶Coding Stats
 
 <p align="center">
   <a href="https://wakatime.com">
@@ -34,13 +29,13 @@
   <img href="https://codetime.dev" alt="Custom badge" src="https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D21162%26project%3D%26in%3D0">
 </p>
 
-## Dev Profiles
+## 👨🏻‍💼Dev Profiles
 
 [![Hacker Rank Profile](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/kalyankanuri497)
 [![Leet Code Profile](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/KalyanKanuri/)
 
 
-## Skill Stack 
+## 💡Skill Stack 
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -54,15 +49,15 @@
 ![Cent OS](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
 
 
-## Github Stats
+## 🏆Github Stats
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyankanuri&theme=blue-green" alt="kalyankanuri" />
-</p></br>
+</p>
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kalyankanuri&theme=blue-green"/>
-</p></br>
+</p>
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalyankanuri&theme=tokyonight" alt="kalyankanuri" />
