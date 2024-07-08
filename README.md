@@ -6,7 +6,7 @@
 
 ## 👨🏻‍💻About Me
 
-* 🙋‍♂️All about me is in [My Website](https://kalyankanuriportfolio.netlify.app)
+* 🙋‍♂️All about me is in [My Website](https://my-dev-diary.vercel.app/)
 * 🔭 I’m currently working on some projects in [TechHubHQ](https://github.com/TechHubHQ/).
 * 🌱 I’m currently learning JAVA with SpringBoot.
 * 🤔 I’m looking for help in System Architecture and AWS EC2 Deployment.
