@@ -8,7 +8,7 @@
 
 * 🙋‍♂️All about me is in [My Website](https://my-dev-diary.vercel.app/)
 * 🔭 I’m currently working on some projects in [TechHubHQ](https://github.com/TechHubHQ/).
-* 🌱 I’m currently learning JAVA with SpringBoot.
+* 🌱 I’m currently learning GoLang with it's frameworks.
 * 🤔 I’m looking for help in System Architecture and AWS EC2 Deployment.
 * 👯 I’m looking to collaborate for Dev Projects
 * 🕵 Checkout my works [here](https://github.com/orgs/TechHubHQ/repositories) 
